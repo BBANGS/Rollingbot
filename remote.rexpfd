@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="jeonghyeoncheol-ui-MacBook-Air.pi:/home/pi/project"/>
+    <options createDirectoryStructure="false" createSelectedOnly="true" descriptionFilePath="/rollingbot/remote.rexpfd" overWriteExistingFiles="false" reviewSynchronize="true" saveSettings="true"/>
+    <selectedElements>
+        <project name="rollingbot"/>
+    </selectedElements>
+</rexpfd>
